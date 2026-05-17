@@ -1,0 +1,6 @@
+# Development-only dependencies (notebooks, tests, schema checks)
+-r requirements.txt
+jupyter>=1.0
+ipykernel>=6.29
+pandera>=0.18
+pytest>=8.0
